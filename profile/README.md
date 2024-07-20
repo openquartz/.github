@@ -16,6 +16,6 @@ Hi! I'm <a href="https://svnlab.github.io/">OpenQuartz</a> author!
 <p><em>Software Enginner at China Shanghai </em></p>
 
 <p><b>Open, inclusive, elegant！<b></p>
-<p><b>开放, 轻量, 优雅！<b></p>
+<p><b>小而美的开源组织！<b></p>
 
 ![](http://antzuhl.cn:4000/get/@openquartz.readme)
