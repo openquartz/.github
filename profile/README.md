@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Hi! I'm <a href="https://svnlab.github.io/">OpenQuartz</a> author!
 <p><em>Software Enginner at China Shanghai </em></p>
 
-<p><b>Open, inclusive, elegant！<b></p>
-<p><b>小而美的开源组织！<b></p>
+<p><b>Make programming simpler<b></p>
+<p><b>让编程更简单！<b></p>
 
 ![](http://antzuhl.cn:4000/get/@openquartz.readme)
