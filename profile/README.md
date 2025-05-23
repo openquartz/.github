@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm <a href="https://svnlab.github.io/">OpenQuartz</a> author!
+Hi! I'm <a href="https://openquartz.github.io/">OpenQuartz</a> author!
 <p><em>Software Enginner at China Shanghai </em></p>
 
 <p><b>Make programming simpler!<b></p>
