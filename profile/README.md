@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Hi! I'm <a href="https://openquartz.github.io/">OpenQuartz</a> author!
 <p><em>Software Enginner at China Shanghai </em></p>
 
-<p><b>Make programming simpler!<b></p>
-<p><b>让编程更简单！<b></p>
+<p><b>fig. big accomplishments come from an accumulation of littleachievements made one by one !<b></p>
+<p><b>千里之行始于足下！<b></p>
 
 ![](http://antzuhl.cn:4000/get/@openquartz.readme)
